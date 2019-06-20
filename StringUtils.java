@@ -1,5 +1,6 @@
+Updated again
 Hi Guys
-This is java code
-java is very easy
-Thats y we are not learning
+This is DevOps config file
+DevOps is very easy
+Thats y we are  learning
 
